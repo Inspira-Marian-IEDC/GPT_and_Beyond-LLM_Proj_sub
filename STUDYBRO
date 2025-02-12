@@ -1,0 +1,34 @@
+import time
+
+class StudyBuddy:
+    def __init__(self):
+        self.schedule = {}
+        self.pomodoro_duration = 25 * 60  # 25 minutes in seconds
+
+    def create_study_schedule(self, subjects, exam_dates):
+        for subject, date in zip(subjects, exam_dates):
+            self.schedule[subject] = date
+        return "Study schedule created! Here's your plan: " + str(self.schedule)
+
+    def start_pomodoro(self):
+        print("Pomodoro session started. Focus for 25 minutes!")
+        time.sleep(self.pomodoro_duration)
+        return "Time's up! Take a 5-minute break."
+
+    def recommend_resources(self, subject):
+        resources = {
+            "Physics": ["Khan Academy Physics", "Physics Classroom", "Coursera Physics"],
+            "Chemistry": ["Khan Academy Chemistry", "Chemistry LibreTexts", "Coursera Chemistry"],
+            "Math": ["Khan Academy Math", "Paul's Online Math Notes", "Coursera Math"]
+        }
+        return f"Here are some resources for {subject}: {', '.join(resources.get(subject, ['No resources found']))}"
+
+    def set_reminder(self, task, deadline):
+        return f"Reminder set for {task} due on {deadline}."
+
+# Example Usage
+buddy = StudyBuddy()
+print(buddy.create_study_schedule(["Physics", "Chemistry"], ["2025-03-01", "2025-03-10"]))
+print(buddy.recommend_resources("Physics"))
+print(buddy.start_pomodoro())
+print(buddy.set_reminder("Math Assignment", "2025-02-20"))
