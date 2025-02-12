@@ -1,1 +1,6 @@
-[]
+{
+  "name": "Your Name",
+  "project_name": "Project Title",
+  "repository_url": "https://github.com/yourusername/project",
+  "description": "Brief project description (50 words max)"
+}
