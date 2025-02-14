@@ -1,1 +1,8 @@
-[]
+[
+  {
+  "name": "Maanas MS",
+  "project_name": "Project",
+  "repository_url": "https://github.com/elementaryrock",
+  "description": "Brief project description (50 words max)"
+}
+]
