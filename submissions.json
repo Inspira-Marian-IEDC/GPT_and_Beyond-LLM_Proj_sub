@@ -1,6 +1,8 @@
-{
+[
+  {
   "name": "Afsal Shaji",
   "project_name": "mediapipe-gesture-control",
   "repository_url": "https://github.com/afsaldigitalart/mediapipe-gesture-control",
   "description": "This project is a gesture-controlled robot car using OpenCV and MediaPipe for hand tracking. It detects gestures like pointing left, right, open palm, and closed palm to control movement."
 }
+]
