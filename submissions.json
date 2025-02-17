@@ -1,1 +1,8 @@
-[]
+[
+  {
+  "name": "Abhishek S",
+  "project_name": "VoiceMate",
+  "repository_url": "https://github.com/the-abhax/VoiceMate---AI-Voice-Assistant",
+  "description": "VoiceMate is a Python-based AI voice assistant that recognizes voice commands to perform tasks like web searches, Wikipedia lookups, weather updates, email sending, and system control. It uses speech recognition, text-to-speech, and APIs to enhance productivity, offering a hands-free, interactive experience for users seeking smart automation. "
+}
+]
