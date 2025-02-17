@@ -1,1 +1,6 @@
-[]
+[{
+  "name": "Shefna Naushad",
+  "project_name": "Ludo",
+  "repository_url": "https://github.com/ShefnaNaushad/Ludo/upload",
+  "description": "This ludo program simulates a two player game where players roll a dice to move around the boars.The first player to reach position 100 wins.The game alternates between players,displaying each moves and declaring the winner at the end"
+}]
