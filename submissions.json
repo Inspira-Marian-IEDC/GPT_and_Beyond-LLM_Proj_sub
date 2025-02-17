@@ -1,1 +1,8 @@
-[]
+[
+{
+  "name": "Siddharth Nair",
+  "project_name": "Weather App",
+  "repository_url": "https://github.com/sidmidbid/weatherapp",
+  "description": "A simple Python weather app that fetches real-time weather data using the OpenWeatherMap API. It features a user-friendly Tkinter GUI, displaying temperature, humidity, wind speed, and weather conditions for any city. Easy to set up and run, perfect for beginners learning API integration and GUI development."
+}
+]
