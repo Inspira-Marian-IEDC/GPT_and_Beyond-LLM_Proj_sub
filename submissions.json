@@ -2,5 +2,5 @@
   "name": "Alan.s.robin",
   "project_name": "AI_health assistant",
   "repository_url": "https://github.com/alansrobin/AICTE-INTERNSHIP.git",
-  "description": "Brief project description (50 words max)"
+  "description": "This project develops an AI-powered health assistant to improve healthcare access and efficiency.  Using machine learning and NLP, it provides personalized health information, streamlines administrative tasks, and enables remote monitoring.  The system integrates a user interface, AI core, and diverse data sources.  Future work focuses on enhanced personalization, accuracy, and functionality.  The goal is a user-friendly tool for patients and providers, contributing to a more effective healthcare system."
 }
