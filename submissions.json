@@ -1,1 +1,8 @@
-[]
+[
+  {
+  "name": "Johann Thomas George",
+  "project_name": "Logtool v.1.0.0",
+  "repository_url": "https://github.com/JohannThomasGeorge/logtool",
+  "description": "Just a simple logbook/todolist tool."
+  }
+]
