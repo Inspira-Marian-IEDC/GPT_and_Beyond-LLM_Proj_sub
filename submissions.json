@@ -1,1 +1,6 @@
-[]
+[{
+  "name": "Nandana Vipin",
+  "project_name": "LangLearn",
+  "repository_url": "https://github.com/NandanaVipin/LangLearn",
+  "description": "This project is an interactive online language learning platform built with React (Vite). It features language selection with learning resources, progress tracking, beautiful UI animations, and a live translator. The design includes glassmorphism effects for a modern look, making learning engaging and user-friendly"
+}]
