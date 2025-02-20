@@ -1,1 +1,8 @@
-[]
+[
+  {
+  "name": "MEREENA JOHN ",
+  "project_name": "NUM GUESS ",
+  "repository_url": "https://github.com/Rising06phoenix/NUM-GUESS.git",
+  "description": "The Number Guessing Game is a simple text-based game where players attempt to guess a randomly generated number between 1 and 100. Players have up to 10 attempts to find the correct number, receiving hints after each guess. It's a fun way to test your intuition and number skills."
+}
+]
