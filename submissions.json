@@ -1,1 +1,8 @@
-[]
+[
+  {
+  "name": "Hebin Muhammed N.J.",
+  "project_name": "GUESS THE NUMBER",
+  "repository_url": "https://github.com/h3bin/guess.git",
+  "description": "The “Guess The Number” game is a Python-based program where the player tries to guess a randomly generated number within a given range. It utilizes loops, conditionals, and the random module for an interactive user experience."
+}
+]
