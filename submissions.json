@@ -1,1 +1,8 @@
-[]
+[
+  {
+  "name": "Sree Hari A",
+  "project_name": "ReExplain",
+  "repository_url": "https://github.com/thesrhari/ReExplain",
+  "description": "A simple web app that converts text for different audience, like for a 5-year-old, Gen Z, and more."
+  }
+]
