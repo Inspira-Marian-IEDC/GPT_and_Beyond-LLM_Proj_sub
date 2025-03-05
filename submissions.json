@@ -1,5 +1,11 @@
 [
   {
+  "name": "Keerthana N S",
+  "project_name": "Medical Image Detection App",
+  "repository_url": "https://github.com/keerthanans2006/Medical-Image-Detection.git",
+  "description": "Brief project description (50 words max)"
+  },
+  {
     "name": "Johann Thomas George",
     "project_name": "Logtool v.1.0.0",
     "repository_url": "https://github.com/JohannThomasGeorge/logtool",
@@ -24,3 +30,4 @@
     "description": "A simple web app that converts text for different audience, like for a 5-year-old, Gen Z, and more."
   }
 ]
+
