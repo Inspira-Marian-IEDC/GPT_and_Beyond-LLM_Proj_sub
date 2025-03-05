@@ -1,5 +1,10 @@
 [
   {
+  "name": "Sanal Sajan E",
+  "project_name": "Text Summarization Tool",
+  "repository_url": "https://github.com/sanalsajann/Text-Summariztion-Tool-using-LLM.git",
+  "description": "This project is a Text Summarization Tool built using Gradio and a pre-trained LLM. It allows users to input long text and generate concise summaries with adjustable length parameters. The interface provides real-time processing feedback and an easy-to-use UI for efficient text summarization."
+  },{
   "name": "Sree Hari A",
   "project_name": "ReExplain",
   "repository_url": "https://github.com/thesrhari/ReExplain",
