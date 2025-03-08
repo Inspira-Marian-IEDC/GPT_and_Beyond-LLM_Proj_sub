@@ -1,5 +1,11 @@
 [
   {
+  "name": "Fabena Franklin",
+  "project_name": "Traffic Light.",
+  "repository_url": "https://github.com/fabena-franklin/Traffic-light..git",
+  "description": "This is a project to implement traffic light using java gui"
+  },
+  {
   "name": "Fabitha Franklin",
   "project_name": "SPEEDTEST program",
   "repository_url":"https://github.com/FabithaFranklin/SPEED-TEST-PROGRAM-.git",
@@ -36,4 +42,5 @@
     "description": "A simple web app that converts text for different audience, like for a 5-year-old, Gen Z, and more."
   }
 ]
+
 
