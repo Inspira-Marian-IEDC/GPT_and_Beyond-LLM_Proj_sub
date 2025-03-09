@@ -48,3 +48,10 @@
   "description": "This project develops an AI-powered health assistant to improve healthcare access and efficiency.  Using machine learning and NLP, it provides personalized health information, streamlines administrative tasks, and enables remote monitoring.  The system integrates a user interface, AI core, and diverse data sources.  Future work focuses on enhanced personalization, accuracy, and functionality.  The goal is a user-friendly tool for patients and providers, contributing to a more effective healthcare system."
   }
 ]
+{
+"name": "Madhav.s",
+  "project_name": "Snake Game Program",
+  "repository_url": "https://github.com/madzz-svs/Snake-Game-Program.git",
+  "description": "this project is about a snake game that is enjoyable"
+},
+  "description": "Brief project description (50 words max)"
