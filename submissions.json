@@ -1,5 +1,11 @@
 [
   {
+  "name": "Sandra Gilson",
+  "project_name": "Animal Hangman",
+  "repository_url": "https://github.com/SandraGilson/Animal-Hangman",
+  "description": "The Animal Hangman Adventure is an engaging and educational word-guessing game built using Python.In this game, players attempt to guess the letters of a hidden word, which is randomly selected from a list of animal names. The objective is to guess the word correctly before running out of attempts, represented by the stages of a hangman being drawn."
+  },
+  {
   "name": "Rithika Harikrishna",
   "project_name": "Wumpus World",
   "repository_url": "https://github.com/rithikahaha/wumpus",
