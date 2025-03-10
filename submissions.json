@@ -1,5 +1,11 @@
 [
   {
+  "name": "Nalin Jyothy",
+  "project_name": "Tweet Analyser",
+  "repository_url": "https://github.com/NotNalin/Tweet-Analyser",
+  "description": "Python project that analyses tweets using NLP"
+  },
+  {
   "name": "Sandra Gilson",
   "project_name": "Animal Hangman",
   "repository_url": "https://github.com/SandraGilson/Animal-Hangman",
